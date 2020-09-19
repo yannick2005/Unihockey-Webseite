@@ -1,0 +1,50 @@
+.tales {
+  width: 100%;
+}
+.form-control{
+    margin-top: 10px;
+}
+#nav-link{
+    float: right;
+}
+.carousel-inner{
+  width:80%;
+  max-height: 200px !important;
+  margin: auto;
+}
+.card{
+    margin:auto;
+}
+
+.card-img-bottom{
+    height: 150px;
+    width: 250px;
+}
+.btn {
+    margin-left:70px;
+    margin-bottom: 10px;
+}
+.container{
+    padding: 20px;
+    width:90%;
+    margin: auto;
+}
+
+.box{
+    padding: 10px;
+    height: 200px;
+    margin: auto;
+ }
+.square{
+    height: 150px;
+    width: 150px;
+    display:block;
+    margin: auto auto;
+
+}
+.box3{
+    padding: 0 0 0 100px;
+}
+hr{
+    height: 3px;
+}
